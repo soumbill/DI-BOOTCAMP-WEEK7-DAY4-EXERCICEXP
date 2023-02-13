@@ -1,0 +1,17 @@
+{
+    "name": "yves/exercice4",
+    "require": {
+        "phpunit/phpunit": "^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Yves\\Exercice4\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "KOUKOUYVES",
+            "email": "wogelisabeth@gmail.com"
+        }
+    ]
+}
